@@ -1,0 +1,7 @@
+#Detection.srv
+---
+bool success
+string frame_id
+float32 x_center
+float32 y_center
+builtin_interfaces/Time timestamp

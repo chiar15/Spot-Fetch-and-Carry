@@ -1,0 +1,19 @@
+{
+  "waypoint_id": "above-howler-fLYqUKu1ALrEvcJcxEJayg==",
+  "waypoint_name": "waypoint_99",
+  "reference_waypoint": "waypoint_99",
+  "reference_id": "above-howler-fLYqUKu1ALrEvcJcxEJayg==",
+  "pose": {
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "orientation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+}
